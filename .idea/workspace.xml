@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="64f514fd-90c8-40f0-b1a9-37c4038ac1f1" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/kalai/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalai/.metadata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalai/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalai/analysis_options.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalai/android/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalai/android/app/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalai/android/app/src/debug/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalai/android/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalai/android/app/src/main/kotlin/com/kaliostech/kalai/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalai/android/app/src/main/res/drawable-hdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalai/android/app/src/main/res/drawable-mdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalai/android/app/src/main/res/drawable-v21/launch_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalai/android/app/src/main/res/drawable-xhdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalai/android/app/src/main/res/drawable-xxhdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalai/android/app/src/main/res/drawable-xxxhdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalai/android/app/src/main/res/drawable/launch_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalai/android/app/src/main/res/mipmap-anydpi-v26/launcher_icon.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalai/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalai/android/app/src/main/res/mipmap-hdpi/launcher_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalai/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalai/android/app/src/main/res/mipmap-mdpi/launcher_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalai/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalai/android/app/src/main/res/mipmap-xhdpi/launcher_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalai/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalai/android/app/src/main/res/mipmap-xxhdpi/launcher_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalai/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalai/android/app/src/main/res/mipmap-xxxhdpi/launcher_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalai/android/app/src/main/res/values-night/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalai/android/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalai/android/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalai/android/app/src/profile/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalai/android/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalai/android/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalai/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalai/android/settings.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalai/assets/fonts/Poppins-Bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalai/assets/fonts/Poppins-Medium.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalai/assets/fonts/Poppins-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalai/assets/images/appicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalai/assets/images/brand img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalai/assets/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalai/assets/images/onboarding1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalai/assets/images/onboarding2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalai/assets/images/onboarding3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalai/devtools_options.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalai/ios/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalai/ios/Flutter/AppFrameworkInfo.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalai/ios/Flutter/Debug.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalai/ios/Flutter/Release.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalai/ios/Podfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalai/ios/Podfile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalai/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalai/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalai/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalai/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalai/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalai/ios/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalai/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalai/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalai/ios/Runner/AppDelegate.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalai/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalai/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalai/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalai/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalai/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalai/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalai/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalai/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalai/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalai/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalai/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalai/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-50x50@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalai/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-50x50@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalai/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-57x57@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalai/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-57x57@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalai/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalai/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalai/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-72x72@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalai/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-72x72@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalai/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalai/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalai/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalai/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalai/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalai/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalai/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalai/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalai/ios/Runner/Base.lproj/LaunchScreen.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalai/ios/Runner/Base.lproj/Main.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalai/ios/Runner/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalai/ios/Runner/Runner-Bridging-Header.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalai/ios/RunnerTests/RunnerTests.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalai/lib/main.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalai/lib/models/food_item.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalai/lib/providers/auth_provider.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalai/lib/providers/food_history_provider.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalai/lib/providers/goals_provider.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalai/lib/providers/profile_setup_provider.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalai/lib/screens/adjust_goals_screen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalai/lib/screens/analytics_screen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalai/lib/screens/auth_wrapper.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalai/lib/screens/camera_screen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalai/lib/screens/food_detail_screen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalai/lib/screens/home_screen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalai/lib/screens/login_screen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalai/lib/screens/onboarding_screen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalai/lib/screens/personal_details_screen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalai/lib/screens/profile_setup/profile_setup_flow.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalai/lib/screens/settings_screen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalai/lib/screens/signup_screen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalai/lib/services/auth_service.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalai/lib/services/upload_service.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalai/lib/theme/app_theme.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalai/lib/utils/bmi_calculator.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalai/lib/utils/permission_handler.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalai/pubspec.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalai/pubspec.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalai/test/widget_test.dart" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2ypeK2Yio2KOp4osdRZyqQT3ibz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/kalios31/Desktop/Kalos Ai",
+    "settings.editor.selected.configurable": "dart.settings",
+    "show.migrate.to.gradle.popup": "false"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="64f514fd-90c8-40f0-b1a9-37c4038ac1f1" name="Changes" comment="" />
+      <created>1750535874723</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1750535874723</updated>
+    </task>
+    <servers />
+  </component>
+</project>
