@@ -12,7 +12,7 @@ class GoogleSignInBloc extends Bloc<GoogleSignInEvent, GoogleSignInState> {
   static const String _androidClientId =
       '552853286855-2lonrk45gunof5dva0g816dap4aal7r4.apps.googleusercontent.com';
   static const String _backendUrl =
-      'https://a9527bf3ba73.ngrok-free.app/v1/auth/google';
+      'https://d8b71fbf36fd.ngrok-free.app/v1/auth/google';
   static const String _serverwebclientid =
       '552853286855-c92u9squhkpsl0he8r0g7eckg596p1fg.apps.googleusercontent.com';
   late final StreamSubscription _authSub;

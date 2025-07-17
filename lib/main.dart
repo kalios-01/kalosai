@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:kalosai/profile/edit_username_screen.dart';
+import 'package:kalosai/home/home_screen.dart';
 // import 'google_signin/google_signin_screen.dart';
 
 void main() {
@@ -47,7 +47,7 @@ class MyApp extends StatelessWidget {
           labelSmall: TextStyle(fontFamily: 'Manrope'),
         ),
       ),
-      home: EditUsernameScreen(userId: '123232322'),
+      home: HomeScreen(),
     );
   }
 }
